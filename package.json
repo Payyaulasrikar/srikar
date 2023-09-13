@@ -16,7 +16,6 @@
   },
   "description": "",
   "main": "app.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://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@github.com/Payyaulasrikar/srikar.git"
@@ -27,5 +26,6 @@
   "bugs": {
     "url": "https://github.com/Payyaulasrikar/srikar/issues"
   },
-  "homepage": "https://github.com/Payyaulasrikar/srikar#readme"
+  "homepage": "https://github.com/Payyaulasrikar/srikar#readme",
+  "devDependencies": {}
 }
